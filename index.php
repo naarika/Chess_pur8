@@ -9,7 +9,7 @@
 
 <body>
 
-<FORM  METHOD=POST action="Chekway.php">
+<FORM  METHOD=POST action="Checkway.php">
     <select name="piece" size="1">
         <option  value="Rock">Rock</option>
         <option  value="Bishop">Bishop</option>
